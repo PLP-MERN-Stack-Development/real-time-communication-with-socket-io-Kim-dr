@@ -1,8 +1,6 @@
 # 💬 ChatIO - Real-Time Chat Application
 
-<div align="center">
 
-![ChatIO Logo](https://via.placeholder.com/150x150/6366f1/ffffff?text=ChatIO)
 
 **A fully-featured real-time chat application built with Socket.io, React, Express, and Tailwind CSS v4**
 
@@ -1004,3 +1002,4 @@ SOFTWARE.
 
 
 *This project stands on the shoulders of giants in the open-source community. Thank you all for making software development more accessible and enjoyable.*
+
