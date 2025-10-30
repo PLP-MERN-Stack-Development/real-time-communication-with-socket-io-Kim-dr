@@ -1,8 +1,6 @@
 # 💬 ChatIO - Real-Time Chat Application
 
-<div align="center">
 
-![ChatIO Logo](https://via.placeholder.com/150x150/6366f1/ffffff?text=ChatIO)
 
 **A fully-featured real-time chat application built with Socket.io, React, Express, and Tailwind CSS v4**
 
@@ -19,9 +17,9 @@
 
 ## 🌐 Live Demo
 
-> **Live Application:** [Your Deployed App URL Here]
+> **Live Application:** [https://thriving-jelly-72d1c4.netlify.app/]
 >
-> **Server API:** [Your Server URL Here]
+> **Server API:** [https://real-time-communication-with-socket-io-0x5x.onrender.com/]
 >
 > **Status:** 🟢 Online
 
@@ -299,10 +297,10 @@ npm install
 #### Server Configuration (`server/.env`)
 ```env
 # Server port
-PORT=5000
+PORT=your-pprt-url-here
 
 # Client URL for CORS (update for production)
-CLIENT_URL=http://localhost:5173
+CLIENT_URL=your-client-url-here
 
 # File upload size limit (5MB)
 MAX_FILE_SIZE=5242880
@@ -311,10 +309,10 @@ MAX_FILE_SIZE=5242880
 #### Client Configuration (`client/.env`)
 ```env
 # Socket.io server URL (update for production)
-VITE_SOCKET_URL=http://localhost:5000
+VITE_SOCKET_URL=yur-url-here
 
 # API base URL (update for production)
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=your-url-here
 ```
 
 ### 5. Create Upload Directory
@@ -965,7 +963,7 @@ SOFTWARE.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Kim-dr)
+- **Kimberly Kagasi** - *Real TIme Communication with socket-io* - [GitHub](https://github.com/Kim-dr)
 
 ---
 
@@ -1002,4 +1000,6 @@ SOFTWARE.
 - Inspired by modern chat applications like Slack, Discord, and WhatsApp
 - Built with best practices learned from industry experts and online courses
 
+
 *This project stands on the shoulders of giants in the open-source community. Thank you all for making software development more accessible and enjoyable.*
+
